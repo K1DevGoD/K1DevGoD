@@ -11,5 +11,5 @@
 
 ```
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Larinax999&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+   <img align="center" src="[https://github-readme-stats.vercel.app/api?username=Larinax999&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff](https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg)https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg"/>
 </p>
