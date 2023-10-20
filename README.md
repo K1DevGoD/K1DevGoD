@@ -1,16 +1,15 @@
-### Hi there 👋
+<h3 align="center">Hi</h3>
 
-<!--
-**K1DevGoD/K1DevGoD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```lua
+    local name = "King"
+    local currentYear = os.date("%Y")
+    local age = currentYear - 2005
+    local human = true
+    local real_languages = {"thai", "en"}
+    local main_languages = {"HTML", "javascript", "CSS", "Lua","PHP"} -- , "typescript"
+    local learning_languages = {"C++", "C#","Golang"} -- "Python "
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Larinax999&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+</p>
